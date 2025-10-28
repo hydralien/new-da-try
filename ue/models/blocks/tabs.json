@@ -3,6 +3,7 @@
     {
       "title": "Tabs",
       "id": "tabs",
+      "model": "tabs",
       "plugins": {
         "da": {
           "unsafeHTML": "<div class=\"tabs\"><div><div><p></p></div><div></div></div></div>"
@@ -12,6 +13,7 @@
     {
       "title": "Tabs Item",
       "id": "tabs-item",
+      "model": "tabs-item",
       "plugins": {
         "da": {
           "unsafeHTML": "<div><div><p></p></div><div></div></div>"

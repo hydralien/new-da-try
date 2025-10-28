@@ -3,6 +3,7 @@
     {
       "title": "Accordion",
       "id": "accordion",
+      "model": "accordion",
       "plugins": {
         "da": {
           "name": "accordion",
@@ -14,6 +15,7 @@
     {
       "title": "Accordion Item",
       "id": "accordion-item",
+      "model": "accordion-item",
       "plugins": {
         "da": {
           "name": "accordion-item",
