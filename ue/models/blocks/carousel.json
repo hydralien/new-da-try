@@ -4,6 +4,7 @@
       "title": "Carousel",
       "id": "carousel",
       "model": "carousel",
+      "filter": "carousel",
       "plugins": {
         "da": {
           "unsafeHTML": "<div class=\"carousel\"><div><div><picture><source type=\"image/webp\" srcset=\"\"><source type=\"image/jpeg\" srcset=\"\"><img loading=\"lazy\"></picture></div><div></div></div>"

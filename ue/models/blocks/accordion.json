@@ -4,6 +4,7 @@
       "title": "Accordion",
       "id": "accordion",
       "model": "accordion",
+      "filter": "accordion",
       "plugins": {
         "da": {
           "name": "accordion",

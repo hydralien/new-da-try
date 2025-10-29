@@ -53,6 +53,7 @@
           "title": "Accordion",
           "id": "accordion",
           "model": "accordion",
+          "filter": "accordion",
           "plugins": {
             "da": {
               "name": "accordion",
@@ -99,6 +100,7 @@
           "title": "Carousel",
           "id": "carousel",
           "model": "carousel",
+          "filter": "carousel",
           "plugins": {
             "da": {
               "unsafeHTML": "<div class=\"carousel\"><div><div><picture><source type=\"image/webp\" srcset=\"\"><source type=\"image/jpeg\" srcset=\"\"><img loading=\"lazy\"></picture></div><div></div></div>"
@@ -119,6 +121,7 @@
           "title": "Columns",
           "id": "columns",
           "model": "columns",
+          "filter": "columns",
           "plugins": {
             "da": {
               "name": "columns",
@@ -132,6 +135,7 @@
           "title": "Columns Row",
           "id": "columns-row",
           "model": "columns-row",
+          "filter": "columns-row",
           "plugins": {
             "da": {
               "name": "columns-row",
@@ -143,6 +147,7 @@
           "title": "Columns Cell",
           "id": "columns-cell",
           "model": "columns-cell",
+          "filter": "columns-cell",
           "plugins": {
             "da": {
               "unsafeHTML": "<div></div>",
@@ -198,6 +203,7 @@
           "title": "Tabs",
           "id": "tabs",
           "model": "tabs",
+          "filter": "tabs",
           "plugins": {
             "da": {
               "unsafeHTML": "<div class=\"tabs\"><div><div><p></p></div><div></div></div></div>"
